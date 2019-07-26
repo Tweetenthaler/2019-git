@@ -1,4 +1,5 @@
 Make a commit change to this file for testing.
+#Git
 
 -'init' : initialize the repository
 -'status' : looks at the state of the repository
